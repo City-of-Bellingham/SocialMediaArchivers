@@ -2,7 +2,7 @@ Developed by local government to assist with archiving social media streams for 
 
 Current archivers:
 
-Facebook Fan Page:
+Facebook Fan Page:  (http://www.cob.org/data/facebook/)
 This free PowerShell script was created as a way to retain a record of all posts and comments published to a Facebook fan page wall.  The data is saved in JSON files which are human readable.  No effort to de-duplicate data is made.  See Facebook-Fan-Page-Feed-Archiver-ReadMe.docx for instructions. 
 
 Twitter:
