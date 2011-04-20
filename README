@@ -10,3 +10,7 @@ This script is designed to harvest all twitter entries a public	account.  This i
 
 YouTube:
 This script is designed to harvest all comment feeds for public videos by a given author.  The feeds are downloaded in their native ATOM XML format and saved to the archive path by videoid and date/time.  No de-duplication or conversion is performed.
+
+To Do:
+- Develop de-duplication and process
+- Develop simple archive file viewers
