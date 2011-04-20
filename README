@@ -1,0 +1,12 @@
+Developed by local government to assist with archiving social media streams for public records retention.  Initially developed by the City of Bellingham, WA.
+
+Current archivers:
+
+Facebook Fan Page:
+This free PowerShell script was created as a way to retain a record of all posts and comments published to a Facebook fan page wall.  The data is saved in JSON files which are human readable.  No effort to de-duplicate data is made.  See Facebook-Fan-Page-Feed-Archiver-ReadMe.docx for instructions. 
+
+Twitter:
+This script is designed to harvest all twitter entries a public	account.  This is done by downloading the "feed" of the last 20 entries on a regular scheduled basis in Twitter's XML format and saved to the archive path by date/time. No de-duplication or conversion is performed.
+
+YouTube:
+This script is designed to harvest all comment feeds for public videos by a given author.  The feeds are downloaded in their native ATOM XML format and saved to the archive path by videoid and date/time.  No de-duplication or conversion is performed.
